@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Passionate+Developer;Vibe+Coding+HAHAHAHAHAHAHAHA;Always+Exploring+New+Possibilities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Fju;zh;嗷嗷嗷嗷AI不要取代我)](https://git.io/typing-svg)
 
 </div>
 

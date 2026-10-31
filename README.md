@@ -44,11 +44,11 @@
 
 ---
 ### 這些我會😭
-<img src="https://shields.io" alt="Claude" />
-<img src="https://shields.io" alt="Claude Code" />
-<img src="https://shields.io" alt="Codex" />
-<img src="https://shields.io" alt="Antigravity" />
 
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 

@@ -1,12 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,45&height=200&section=header&text= ╰(*°▽°*)╯ &fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
+</p>
 
-# ╰(*°▽°*)╯
-
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=FJU;ZH;嗷嗷嗷嗷AI不要取代我" alt="Typing SVG" />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Fju;zh;嗷嗷嗷嗷AI不要取代我)](https://git.io/typing-svg)
 
-</div>
+
 
 ---
 
@@ -50,11 +54,13 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zhfju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhfju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhfju&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=zhfju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhfju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhfju&theme=tokyonight&hide_border=true" width="97%" />
+</p>
 </div>
 

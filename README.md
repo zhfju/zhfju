@@ -1,26 +1,25 @@
 <div align="center">
 
-# ✦ Welcome to my GitHub ✦
+# ✦ Zh_fju ✦
 
-*Crafting elegant solutions, building interactive tools & exploring technology.*
+* 🤓 *
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Passionate+Developer;Lifelong+Learner;Always+Exploring+New+Possibilities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Passionate+Developer;Vibe+Coding+HAHAHAHAHAHAHAHA;Always+Exploring+New+Possibilities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### ◆ About Me
+### About Me
 
-- ✦ 目前專注於 Web 應用開發、自動化腳本與使用者體驗優化。
-- ✦ 喜愛乾淨俐落的架構與簡約設計風格。
-- ✦ 持續探索各類新興技術與開放原始碼專案。
-
+- 大一學生
+- 只對網頁感興趣
+- AI不要取代我
 ---
 
-### ◆ Tech Stack & Tools
+### 這些我都不會
 
 <div align="left">
 
@@ -46,7 +45,7 @@
 
 ---
 
-### ◆ GitHub Analytics
+### 對不起我沒做事
 
 <div align="center">
 

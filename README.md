@@ -57,8 +57,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <sub>Designed with care ✧ Powered by GitHub</sub>
-</div>

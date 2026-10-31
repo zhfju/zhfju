@@ -4,12 +4,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=FJU;ZH;%E5%97%B7%E5%97%B7%E5%97%B7%E5%97%B7AI%E4%B8%8D%E8%A6%81%E5%8F%96%E4%BB%A3%E6%88%91" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=FJU;ZH;%E5%97%B7%E5%97%B7%E5%97%B7%E5%97%B7AI%E4%B8%8D%E8%A6%81%E5%8F%96%E4%BB%A3%E6%88%91" alt="Typing SVG" />
   </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Fju;zh;嗷嗷嗷嗷AI不要取代我)](https://git.io/typing-svg)
-
 
 
 ---

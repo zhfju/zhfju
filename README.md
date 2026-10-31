@@ -44,13 +44,11 @@
 
 ---
 ### 這些我會😭
-![Claude](https://shields.io)
+<img src="https://shields.io" alt="Claude" />
+<img src="https://shields.io" alt="Claude Code" />
+<img src="https://shields.io" alt="Codex" />
+<img src="https://shields.io" alt="Antigravity" />
 
-![Claude Code](https://shields.io)
-
-![Codex](https://shields.io)
-
-![Antigravity](https://shields.io)
 
 
 

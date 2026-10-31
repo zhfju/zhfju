@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA9992,50:9B5184,100:271949&height=200&section=header&text=%E2%95%B0%28%2A%C2%B0%E2%96%BD%C2%B0%2A%29%E2%95%AF&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA9992,50:9B5184,100:271949&height=200&section=header&text=%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%2F%E1%90%A0%EF%BD%A1%E2%80%B8%EF%BD%A1%E1%90%9F%5C&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header" width="100%" />
 </p>
 
 <p align="center">
@@ -48,14 +48,10 @@
 ### 對不起我沒做事
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zhfju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhfju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhfju&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhfju&theme=tokyonight&hide_border=true" width="97%" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhfju&show_icons=true&hide_border=true&title_color=FA9992&text_color=CE7FA8&icon_color=F48C93&bg_color=0D1117&count_private=true" width="48%" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=zhfju&theme=tokyonight&hide_border=true&background=0D1117&ring=FA9992&fire=F48C93&currStreakNum=FA9992" width="97%" alt="GitHub Streak" />
+  </p>
 </div>
-

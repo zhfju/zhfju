@@ -43,6 +43,13 @@
 </div>
 
 ---
+### 這些我會😭
+![Claude](https://shields.io)
+![Claude Code](https://shields.io)
+![Codex](https://shields.io)
+![Antigravity](https://shields.io)
+
+
 
 ### 對不起我沒做事
 

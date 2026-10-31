@@ -1,8 +1,7 @@
 <div align="center">
 
 # ✦ Zh_fju ✦
-
-* 🤓 *
+🤓
 
 <br/>
 

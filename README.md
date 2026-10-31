@@ -49,7 +49,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhfju&show_icons=true&hide_border=true&title_color=FA9992&text_color=CE7FA8&icon_color=F48C93&bg_color=0D1117&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhfju&show_icons=true&hide_border=true&title_color=FA9992&text_color=CE7FA8&icon_color=F48C93&bg_color=0D1117&count_private=true&&hide_rank=true" width="48%" alt="GitHub Stats" />
   </p>
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=zhfju&theme=tokyonight&hide_border=true&background=0D1117&ring=FA9992&fire=F48C93&currStreakNum=FA9992" width="97%" alt="GitHub Streak" />
